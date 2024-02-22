@@ -11146,8 +11146,8 @@ body {
   margin-bottom: 50px;
 }
 
-.projects-section {
-  padding: 10rem 0;
+.projects-section, .portfolio-section {
+  padding: 2rem 0;
 }
 .projects-section .featured-text {
   padding: 2rem;
@@ -11166,6 +11166,10 @@ body {
   .projects-section .project-text {
     padding: 5rem;
   }
+}
+
+.portfolio-section a {
+  text-decoration: none;
 }
 
 
